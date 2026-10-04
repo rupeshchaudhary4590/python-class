@@ -6,3 +6,7 @@ print(ord('Z'))
 #character
 print(chr(67))
 print("😁")
+
+
+print("hello \"hel\nlo \"")
+
